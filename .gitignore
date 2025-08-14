@@ -1,0 +1,12 @@
+# Python
+pycache/
+*.pyc
+venv/
+.idea/
+*.egg-info/
+
+# Env
+.env
+
+# Data
+data/vector_store/
